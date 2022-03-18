@@ -5,7 +5,7 @@ import (
 	"bytes"
 	"errors"
 	"fmt"
-	"github.com/newm4n/go-utility"
+	"github.com/indraoct/go-utility"
 	"os"
 	"reflect"
 	"regexp"
